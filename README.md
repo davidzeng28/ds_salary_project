@@ -23,3 +23,21 @@
     * Sector<br>
     * Revenue<br>
     * Competitors<br>
+## Data Cleaning <br>
+- After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables: <br>
+
+ * Parsed numeric data out of salary <br>
+ * Made columns for employer provided salary and hourly wages<br>
+ * Removed rows without salary<br>
+ * Parsed rating out of company text<br>
+ * Made a new column for company state<br>
+ * Added a column for if the job was at the company’s headquarters<br>
+ * Transformed founded date into age of company<br>
+ * Made columns for if different skills were listed in the job description:<br>
+         1. Python<br>
+         2. R<br>
+         3. Excel<br>
+         3. AWS<br>
+         4. Spark<br>
+ * Column for simplified job title and Seniority<br>
+ * Column for description length<br>
