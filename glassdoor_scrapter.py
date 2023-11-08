@@ -2,8 +2,8 @@
 """
 Created on Thu Apr  2 09:32:36 2020
 
-author: Kenarapfaik
-url: https://github.com/arapfaik/scraping-glassdoor-selenium
+author: David Zeng
+url: https://github.com/davidzeng28/ds_salary_project/edit/master/glassdoor_scrapter.py
 """
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
