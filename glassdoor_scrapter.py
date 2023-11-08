@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr  2 09:32:36 2020
+
 
 author: David Zeng
 url: https://github.com/davidzeng28/ds_salary_project/edit/master/glassdoor_scrapter.py
