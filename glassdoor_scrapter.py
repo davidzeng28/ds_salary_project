@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-
-
 author: David Zeng
 url: https://github.com/davidzeng28/ds_salary_project/edit/master/glassdoor_scrapter.py
+master
 """
 from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from selenium import webdriver
