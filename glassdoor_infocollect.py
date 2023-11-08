@@ -2,7 +2,7 @@
 """
 Created on Tue Nov  7 17:43:28 2023
 
-@author: User
+@author: David Zengs
 """
 
 import glassdoor_scrapter as gs
