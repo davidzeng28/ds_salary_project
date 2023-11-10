@@ -1,4 +1,5 @@
 # Data Science Salary Estimator: Project Overview<br>
+- Created a tool that estimates data science salaries (MAE is approximately to  ~ $ 11K) to help data scientists negotiate their income when they get a job. <br>
 - Scraped over 1000 job descriptions from glassdoor using python and selenium <br>
 - Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark.<br>
 - Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.<br>
