@@ -41,3 +41,7 @@
          4. Spark<br>
  * Column for simplified job title and Seniority<br>
  * Column for description length<br>
+
+## EDA <br>
+I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+
