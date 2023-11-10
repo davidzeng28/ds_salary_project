@@ -7,7 +7,8 @@
 ## Code and resources references <br>
 - Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
 - Scraper Github: https://github.com/arapfaik/scraping-glassdoor-selenium
-
+- Flask Productionization: https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
+- For Web Framework Requirements: pip install -r requirements.txt
 # Web scrapping
 ### Tweaked the web scraper github repo (above) to scrape 1000 job postings from glassdoor.com. With each job, we got the following:<br>
     * Job title<br>
