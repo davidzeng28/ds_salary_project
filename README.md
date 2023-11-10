@@ -49,11 +49,13 @@ I looked at the distributions of the data and the value counts for the various c
 ![salary_by_job_title](https://github.com/davidzeng28/ds_salary_project/blob/master/salary_by_job_title.png)
 
 ## Model building <br>
-First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%. <br>
+First, I transformed the categorical variables into dummy variables. I also split the data into train and test sets with a test size of 20%. <br>
 
 I tried three different models and evaluated them using Mean Absolute Error. I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.<br>
 I tried three different models: <br>
    1. Multiple Linear Regression – Baseline for the model <br>
    2. Lasso Regression – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective. <br>
    3. Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit. <br>
+   4. XGBoost - This model gave the best performance overall
+
    
