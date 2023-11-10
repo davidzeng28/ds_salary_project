@@ -58,5 +58,12 @@ I tried three different models: <br>
    2. Lasso Regression – Because of the sparse data from the many categorical variables, I thought a normalized regression like lasso would be effective. <br>
    3. Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit. <br>
    4. XGBoost - This model gave the best performance overall
+## Model performance <br>
+     1. Random Forest(with the help of randomizeSearchCV to tunning) : MAE = 11.19
+     2. Linear Regression: MAE = 18.58
+     3. Lasso Regression: MAE = 19.81
+     4. XGBoost: MAE(with the help of GridSearchCV to tunning) = 110.07
 
+## Productionization <br>
+In this step, I built a flask API endpoint that was hosted on a local webserver by following along with the TDS tutorial in the reference section above. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary.
    
