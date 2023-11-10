@@ -44,6 +44,6 @@
 
 ## EDA <br>
 I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
-![correlation_visual]([http://url/to/img.png](https://github.com/davidzeng28/ds_salary_project/blob/master/correlation_visual.png)https://github.com/davidzeng28/ds_salary_project/blob/master/correlation_visual.png)
-![positions_by_state]([http://url/to/img.png](https://github.com/davidzeng28/ds_salary_project/blob/master/positions_by_state.png)https://github.com/davidzeng28/ds_salary_project/blob/master/positions_by_state.png)
-![salary_by_job_title]([[http://url/to/img.png](https://github.com/davidzeng28/ds_salary_project/blob/master/salary_by_job_title.png)https://github.com/davidzeng28/ds_salary_project/blob/master/salary_by_job_title.png)
+![correlation_visual](https://github.com/davidzeng28/ds_salary_project/blob/master/correlation_visual.png)
+![positions_by_state](https://github.com/davidzeng28/ds_salary_project/blob/master/positions_by_state.png)
+![salary_by_job_title](https://github.com/davidzeng28/ds_salary_project/blob/master/salary_by_job_title.png)
